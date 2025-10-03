@@ -1,4 +1,4 @@
-package com.example.yecga_project.ui.theme
+package com.example.yecga_project.view.theme
 
 import androidx.compose.ui.graphics.Color
 
